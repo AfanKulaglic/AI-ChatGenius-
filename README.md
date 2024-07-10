@@ -1,0 +1,1 @@
+This project is an AI-powered chat application named AI ChatGenius, developed in Android Studio using Kotlin. The app integrates an API to provide intelligent answers to user-submitted questions, making it a powerful tool for information retrieval and conversation.
